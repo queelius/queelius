@@ -1,4 +1,5 @@
 - I’m Alex Towell and I can be reached at lex@metafunctor.com.
+- I'm currently purusing a PhD in computer science at SIU.
 - I have two masters degrees from SIUE: Computer Science and Mathematics/Statistics.
 - I’m interested encrypted search and homomorphic encryption, oblivious and probabilitistic data structures and algorithms, machine learning and statistics, AI, and programming.
 - I’m looking to collaborate on papers (some partially complete). Here are some ideas, but I'm open to other opportunities:
