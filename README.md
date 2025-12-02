@@ -1,20 +1,58 @@
-- I’m Alex Towell and I can be reached at lex@metafunctor.com.
-- I'm currently purusing a PhD in computer science at SIU.
-- I have two masters degrees from SIUE: Computer Science and Mathematics/Statistics.
-- I’m interested encrypted search and homomorphic encryption, oblivious and probabilitistic data structures and algorithms, machine learning and statistics, AI, and programming.
-- I’m looking to collaborate on papers (some partially complete). Here are some ideas, but I'm open to other opportunities:
-  * Oblivious, privacy-preserving algebraic data types for confidential computation on untrusted systems, with analysis informed by information and probability theory. The data types are algebraic in nature because I have been researching ways to compose them to facilitate building larger oblivious programs from smaller oblivious components, the essence of programming.
-  * Probabilistic algorithms and probabilistic algebraic data types primarily concerned with specifying a type of approximation error (normally due to rate distortion) which I tentatively refer to as the Bernoulli Model.
-    * Probabilistic data structures that model set-indicator functions, like the Bloom filter, are a well-known special case, but I seek to significantly generalize the results and propagate information about the approximation error through a family of monadic constructions.
-    * I have been pursuing derivations of the expected lower-bounds on the space complexity of these approximate Bernoulli types in addition to practical near-optimal data structures that model them.
-    * Related to my Computer Science thesis, I have also applied the above results to an approximate Boolean algebra for encrypted search.
-  * Reliability engineering and applying statistical inference and learning to predict likely breakdowns (and its causes) of critical systems.
-    * It concerns reliability theory and my publication titled "Estimating how confidential encrypted searches are using moving average bootstrap method" concerns reliability engineering.
-    * My master's paper "Reliability Estimation in Series Systems: Maximum Likelihood Techniques for Right-Censored and Masked Failure Data" is also related.
-  * An information-theoretic model of an optimal adversary (provides a lower-bound on confidientiality in some cases) who, with some probability of success, compromises the confidentiality of an encrypted search system by observing a time series of inputs and outputs.
-  * Decentralized "trust machines" (technological solutions to securing trust that does not rely on central authorities), Research on oblivious, privacy-preserving computations is one of the tools in automating trust, but I'm also interested in technologies like Blockchain.
+# Hi, I'm Alex Towell
 
-<!---
-queelius/queelius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**AI Safety Researcher | PhD Student | Open Source Developer**
+
+I'm a Computer Science PhD student at Southern Illinois University researching AI safety, alignment, and adversarial robustness. I combine rigorous empirical methodology with theoretical foundations to build reliable ML systems. As a cancer survivor, I bring resilience and determination to complex challenges.
+
+## Research Interests
+
+- **AI Safety & Alignment** - Scalable oversight, evaluation frameworks, adversarial robustness
+- **Mechanistic Interpretability** - Understanding internal representations in neural networks
+- **Machine Learning Security** - Adversarial attacks, defense mechanisms, reliable ML systems
+- **Statistical Methodology** - Probabilistic models, reliability estimation, rigorous evaluation
+- **Cryptography** - Encrypted search, privacy-preserving algorithms, secure computation
+
+## Education
+
+| Degree | Institution | Year | Notes |
+|--------|-------------|------|-------|
+| PhD Computer Science | SIU | 2024-Present | AI Safety & Alignment |
+| MS Mathematics & Statistics | SIUE | 2023 | GPA: 3.9 |
+| MS Computer Science | SIUE | 2015 | GPA: 4.0, Outstanding Graduate Student |
+| BS Computer Science | SIUE | 2010 | GPA: 3.6, Outstanding Junior |
+
+## Tech Stack
+
+**Languages:** Python, C/C++, R, Rust, TypeScript, Julia, LaTeX
+
+**AI/ML:** PyTorch, HuggingFace, CUDA, scikit-learn, NumPy, Pandas
+
+**Systems:** Linux, Docker, Git, PostgreSQL, Elasticsearch, Redis
+
+## Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| [maph](https://github.com/queelius/maph) | High-performance key-value storage with sub-microsecond latency |
+| [AlgoTree](https://github.com/queelius/AlgoTree) | Hierarchical data utilities for tree-structured data |
+| [accumux](https://github.com/queelius/accumux) | Type-safe streaming data reduction with numerical stability |
+| [algebraic_hashing](https://github.com/queelius/algebraic_hashing) | Composable hash functions via algebraic operations |
+
+## Publications
+
+- **2025** - Preventing Ransomware Damages using In-Operation Off-Site Backup (ICCI)
+- **2023** - Reliability Estimation in Series Systems (Master's Project, SIUE)
+- **2016** - Estimating Confidentiality of Encrypted Searches (IEEE CloudCom)
+- **2015** - Encrypted Search: Enabling Standard IR Techniques (Master's Thesis)
+
+## Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=queelius&show_icons=true&theme=tokyonight&hide_border=true)
+
+## Connect
+
+[![Website](https://img.shields.io/badge/Website-metafunctor.com-6366f1?style=flat-square&logo=google-chrome&logoColor=white)](https://metafunctor.com)
+[![Email](https://img.shields.io/badge/Email-lex@metafunctor.com-ec4899?style=flat-square&logo=gmail&logoColor=white)](mailto:lex@metafunctor.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexander_Towell-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-towell-487015151/)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?view_op=list_works&hl=en&user=E9mnFzQAAAAJ)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--6443--9897-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6443-9897)
