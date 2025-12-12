@@ -17,9 +17,9 @@ I'm a Computer Science PhD student at Southern Illinois University researching A
 | Degree | Institution | Year | Notes |
 |--------|-------------|------|-------|
 | PhD Computer Science | SIU | 2024-Present | AI Safety & Alignment |
-| MS Mathematics & Statistics | SIUE | 2023 | GPA: 3.9 |
-| MS Computer Science | SIUE | 2015 | GPA: 4.0, Outstanding Graduate Student |
-| BS Computer Science | SIUE | 2010 | GPA: 3.6, Outstanding Junior |
+| MS Mathematics & Statistics | SIUE | 2023 | |
+| MS Computer Science | SIUE | 2015 | Outstanding Graduate Student |
+| BS Computer Science | SIUE | 2010 | Outstanding Junior |
 
 ## Tech Stack
 
@@ -29,25 +29,13 @@ I'm a Computer Science PhD student at Southern Illinois University researching A
 
 **Systems:** Linux, Docker, Git, PostgreSQL, Elasticsearch, Redis
 
-## Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| [maph](https://github.com/queelius/maph) | High-performance key-value storage with sub-microsecond latency |
-| [AlgoTree](https://github.com/queelius/AlgoTree) | Hierarchical data utilities for tree-structured data |
-| [accumux](https://github.com/queelius/accumux) | Type-safe streaming data reduction with numerical stability |
-| [algebraic_hashing](https://github.com/queelius/algebraic_hashing) | Composable hash functions via algebraic operations |
-
 ## Publications
 
+- **2025** - Cognitive MRI of AI Conversations (Complex Networks)
 - **2025** - Preventing Ransomware Damages using In-Operation Off-Site Backup (ICCI)
 - **2023** - Reliability Estimation in Series Systems (Master's Project, SIUE)
 - **2016** - Estimating Confidentiality of Encrypted Searches (IEEE CloudCom)
 - **2015** - Encrypted Search: Enabling Standard IR Techniques (Master's Thesis)
-
-## Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=queelius&show_icons=true&theme=tokyonight&hide_border=true)
 
 ## Connect
 
