@@ -43,7 +43,6 @@ Unix-philosophy CLIs for owning your data. JSONL canonical, SQLite cache, pipe-f
 
 - [The Policy](https://github.com/queelius/the-policy) — literary SF: AI alignment, consciousness, emergence (published)
 - [Echoes of the Sublime](https://github.com/queelius/echoes-of-the-sublime) — philosophical horror: AI safety, cognitive bandwidth (~103k words)
-- [Call of Asheron](https://github.com/queelius/call-of-asheron) — epic fantasy: forced migration, transformation on an alien world
 
 ## Links
 
