@@ -20,6 +20,7 @@ Unix-philosophy CLIs for owning your data. JSONL canonical, SQLite cache, pipe-f
 
 | Tool | What |
 |------|------|
+| arkiv | Universal data archive (ECHO compliant) |
 | [repoindex](https://github.com/queelius/repoindex) | Git repo collection index |
 | [btk](https://github.com/queelius/btk) | Bookmarks |
 | memex | AI conversations |
