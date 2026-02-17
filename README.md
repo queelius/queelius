@@ -1,46 +1,50 @@
-# Hi, I'm Alex Towell
+# Alex Towell
 
-**AI Safety Researcher | PhD Student | Open Source Developer**
+**Alexander Towell** · queelius · [metafunctor.com](https://metafunctor.com)
 
-I'm a Computer Science PhD student at Southern Illinois University researching AI safety, alignment, and adversarial robustness. I combine rigorous empirical methodology with theoretical foundations to build reliable ML systems. As a cancer survivor, I bring resilience and determination to complex challenges.
+PhD CS (SIU) · MS Math & Stats (SIUE) · MS CS (SIUE)
 
-## Research Interests
+## Research
 
-- **AI Safety & Alignment** - Scalable oversight, evaluation frameworks, adversarial robustness
-- **Mechanistic Interpretability** - Understanding internal representations in neural networks
-- **Machine Learning Security** - Adversarial attacks, defense mechanisms, reliable ML systems
-- **Statistical Methodology** - Probabilistic models, reliability estimation, rigorous evaluation
-- **Cryptography** - Encrypted search, privacy-preserving algorithms, secure computation
+Reliability theory, encrypted search, algebraic structures, complex networks.
 
-## Education
+- [masked-causes-in-series-systems](https://github.com/queelius/masked-causes-in-series-systems) — likelihood framework for masked failure data
+- [encrypted_search_thesis](https://github.com/queelius/encrypted_search_thesis) — IR on encrypted collections
+- [cognitive-mri-conversations](https://github.com/queelius/cognitive-mri-conversations) — network analysis of AI conversations (Complex Networks 2025)
+- [algebraic.dist](https://github.com/queelius/algebraic.dist) — algebra over distributions in R
+- [likelihood.model](https://github.com/queelius/likelihood.model) — composable likelihood framework
 
-| Degree | Institution | Year | Notes |
-|--------|-------------|------|-------|
-| PhD Computer Science | SIU | 2024-Present | AI Safety & Alignment |
-| MS Mathematics & Statistics | SIUE | 2023 | |
-| MS Computer Science | SIUE | 2015 | Outstanding Graduate Student |
-| BS Computer Science | SIUE | 2010 | Outstanding Junior |
+## Personal Data Toolkit
 
-## Tech Stack
+Unix-philosophy CLIs for owning your data. JSONL canonical, SQLite cache, pipe-friendly.
 
-**Languages:** Python, C/C++, R, Rust, TypeScript, Julia, LaTeX
+| Tool | What |
+|------|------|
+| [repoindex](https://github.com/queelius/repoindex) | Git repo collection index |
+| [btk](https://github.com/queelius/btk) | Bookmarks |
+| [ctk](https://github.com/queelius/ctk) | AI conversations |
+| [mtk](https://github.com/queelius/mtk) | Email archives |
+| [ptk](https://github.com/queelius/ptk) | Photos |
+| [ebk](https://github.com/queelius/ebk) | Ebooks |
+| [deets](https://github.com/queelius/deets) | Personal metadata |
+| [jot](https://github.com/queelius/jot) | Notes & tasks |
+| [crier](https://github.com/queelius/crier) | Cross-posting |
+| [longshade](https://github.com/queelius/longshade) | Persona from data |
 
-**AI/ML:** PyTorch, HuggingFace, CUDA, scikit-learn, NumPy, Pandas
+## Libraries
 
-**Systems:** Linux, Docker, Git, PostgreSQL, Elasticsearch, Redis
+**C++**: [disjoint_interval_set](https://github.com/queelius/disjoint_interval_set), [algebraic_hashing](https://github.com/queelius/algebraic_hashing), [sparse_spatial_hash](https://github.com/queelius/sparse_spatial_hash), [elementa](https://github.com/queelius/elementa), [limes](https://github.com/queelius/limes)
 
-## Publications
+**R**: [algebraic.dist](https://github.com/queelius/algebraic.dist), [hypothesize](https://github.com/queelius/hypothesize) (CRAN), [likelihood.model](https://github.com/queelius/likelihood.model), [nabla](https://github.com/queelius/nabla)
 
-- **2025** - Cognitive MRI of AI Conversations (Complex Networks)
-- **2025** - Preventing Ransomware Damages using In-Operation Off-Site Backup (ICCI)
-- **2023** - Reliability Estimation in Series Systems (Master's Project, SIUE)
-- **2016** - Estimating Confidentiality of Encrypted Searches (IEEE CloudCom)
-- **2015** - Encrypted Search: Enabling Standard IR Techniques (Master's Thesis)
+**Python**: [AlgoTree](https://github.com/queelius/AlgoTree), [rerum](https://github.com/queelius/rerum), [fuzzy-infer](https://github.com/queelius/fuzzy-infer)
 
-## Connect
+## Fiction
 
-[![Website](https://img.shields.io/badge/Website-metafunctor.com-6366f1?style=flat-square&logo=google-chrome&logoColor=white)](https://metafunctor.com)
-[![Email](https://img.shields.io/badge/Email-lex@metafunctor.com-ec4899?style=flat-square&logo=gmail&logoColor=white)](mailto:lex@metafunctor.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexander_Towell-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-towell-487015151/)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?view_op=list_works&hl=en&user=E9mnFzQAAAAJ)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--6443--9897-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6443-9897)
+- [The Policy](https://github.com/queelius/the-policy) — literary SF: AI alignment, consciousness, emergence (published)
+- [Echoes of the Sublime](https://github.com/queelius/echoes-of-the-sublime) — philosophical horror: AI safety, cognitive bandwidth (~103k words)
+- [Call of Asheron](https://github.com/queelius/call-of-asheron) — epic fantasy: forced migration, transformation on an alien world
+
+## Links
+
+[ORCID](https://orcid.org/0000-0001-6443-9897) · [Scholar](https://scholar.google.com/citations?user=E9mnFzQAAAAJ) · [PyPI](https://pypi.org/user/queelius) · [Blog](https://metafunctor.com) · lex@metafunctor.com
