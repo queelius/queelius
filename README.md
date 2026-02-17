@@ -22,14 +22,14 @@ Unix-philosophy CLIs for owning your data. JSONL canonical, SQLite cache, pipe-f
 |------|------|
 | [repoindex](https://github.com/queelius/repoindex) | Git repo collection index |
 | [btk](https://github.com/queelius/btk) | Bookmarks |
-| [ctk](https://github.com/queelius/ctk) | AI conversations |
+| memex | AI conversations |
 | [mtk](https://github.com/queelius/mtk) | Email archives |
 | [ptk](https://github.com/queelius/ptk) | Photos |
 | [ebk](https://github.com/queelius/ebk) | Ebooks |
 | [deets](https://github.com/queelius/deets) | Personal metadata |
 | [jot](https://github.com/queelius/jot) | Notes & tasks |
 | [crier](https://github.com/queelius/crier) | Cross-posting |
-| [longshade](https://github.com/queelius/longshade) | Persona from data |
+| eidola | Persona from data |
 
 ## Libraries
 
