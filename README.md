@@ -17,12 +17,12 @@ Reliability theory, encrypted search, algebraic structures, complex networks.
 
 ## Digital Preservation
 
-I want what I make and collect to outlast me. These are Unix-philosophy CLIs for owning your own data — plain formats, composable through pipes, no dependency on services that might disappear.
+I want what I make and collect to be readable in a hundred years. These are Unix-philosophy CLIs for owning your own data — plain formats, composable through pipes, no dependency on services that might disappear.
 
 | Tool | What |
 |------|------|
-| arkiv | Universal data archive ([longecho](https://github.com/queelius/longecho) compliant) |
-| [longecho](https://github.com/queelius/longecho) | Archival philosophy + tool: self-describing, plaintext-first, graceful degradation. Auto-generates a static site from all decoupled data sources. |
+| [longecho](https://github.com/queelius/longecho) | Self-describing, plaintext-first archival philosophy with graceful degradation. Self-similar: every source in a longecho is itself longecho, so site generation, search, and JSON export apply recursively. |
+| arkiv | Universal data archive (longecho compliant) |
 | [repoindex](https://github.com/queelius/repoindex) | Git repo collection index |
 | [btk](https://github.com/queelius/btk) | Bookmarks |
 | memex | All my AI conversations, searchable and queryable |
