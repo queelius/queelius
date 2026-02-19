@@ -2,7 +2,7 @@
 
 **Alexander Towell** · queelius · [metafunctor.com](https://metafunctor.com)
 
-PhD CS (SIU) · MS Math & Stats (SIUE) · MS CS (SIUE)
+PhD student (SIU) · MS Math & Stats · MS CS · Stage 4 cancer. I keep working.
 
 ## Research
 
@@ -14,23 +14,28 @@ Reliability theory, encrypted search, algebraic structures, complex networks.
 - [algebraic.dist](https://github.com/queelius/algebraic.dist) — algebra over distributions in R
 - [likelihood.model](https://github.com/queelius/likelihood.model) — composable likelihood framework
 
-## Personal Data Toolkit
+## Digital Preservation
 
-Unix-philosophy CLIs for owning your data. JSONL canonical, SQLite cache, pipe-friendly.
+I want what I make and collect to outlast me. These are Unix-philosophy CLIs for owning your own data — plain formats, composable through pipes, no dependency on services that might disappear.
 
 | Tool | What |
 |------|------|
-| arkiv | Universal data archive (ECHO compliant) |
+| arkiv | Universal data archive ([ECHO](https://github.com/queelius/longecho) compliant) |
 | [repoindex](https://github.com/queelius/repoindex) | Git repo collection index |
 | [btk](https://github.com/queelius/btk) | Bookmarks |
-| memex | AI conversations |
+| memex | All my AI conversations, searchable and queryable |
 | [mtk](https://github.com/queelius/mtk) | Email archives |
 | [ptk](https://github.com/queelius/ptk) | Photos |
 | [ebk](https://github.com/queelius/ebk) | Ebooks |
+| [chartfold](https://github.com/queelius/chartfold) | Personal health data from multiple EHR systems |
 | [deets](https://github.com/queelius/deets) | Personal metadata |
 | [jot](https://github.com/queelius/jot) | Notes & tasks |
 | [crier](https://github.com/queelius/crier) | Cross-posting |
+| [jsonl-algebra](https://github.com/queelius/jsonl-algebra) | Relational algebra over JSONL |
+| [posthumous](https://github.com/queelius/posthumous) | Deadman switch |
 | eidola | Persona from data |
+
+chartfold consolidates my health records from multiple hospital systems into one place. I do a lot of analysis on my own data — trying to spot patterns, understand trends, inform conversations with my doctors. They're the experts; this just helps me be a better-informed patient.
 
 ## Libraries
 
