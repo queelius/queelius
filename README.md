@@ -21,7 +21,8 @@ I want what I make and collect to outlast me. These are Unix-philosophy CLIs for
 
 | Tool | What |
 |------|------|
-| arkiv | Universal data archive ([ECHO](https://github.com/queelius/longecho) compliant) |
+| arkiv | Universal data archive ([longecho](https://github.com/queelius/longecho) compliant) |
+| [longecho](https://github.com/queelius/longecho) | Archival philosophy + tool: self-describing, plaintext-first, graceful degradation. Auto-generates a static site from all decoupled data sources. |
 | [repoindex](https://github.com/queelius/repoindex) | Git repo collection index |
 | [btk](https://github.com/queelius/btk) | Bookmarks |
 | memex | All my AI conversations, searchable and queryable |
@@ -38,7 +39,7 @@ I want what I make and collect to outlast me. These are Unix-philosophy CLIs for
 
 chartfold consolidates my health records from multiple hospital systems into one place. I do a lot of analysis on my own data — trying to spot patterns, understand trends, inform conversations with my doctors. They're the experts; this just helps me be a better-informed patient.
 
-eidola uses arkiv/ECHO to auto-package all my data — conversations, writings, emails, bookmarks, photos, reading notes — into a queryable whole (including MCP/SQL). The goal is a simulacrum: something that can represent my thinking after I can't. The [cognitive MRI paper](https://github.com/queelius/cognitive-mri-conversations) is the academic version of the same impulse — mapping the topology of a mind's conversations.
+eidola uses arkiv and longecho to auto-package all my data — conversations, writings, emails, bookmarks, photos, reading notes — into a queryable whole (including MCP/SQL). The goal is a simulacrum: something that can represent my thinking after I can't. The [cognitive MRI paper](https://github.com/queelius/cognitive-mri-conversations) is the academic version of the same impulse — mapping the topology of a mind's conversations.
 
 ## Encryption & Privacy
 
