@@ -37,6 +37,15 @@ I want what I make and collect to outlast me. These are Unix-philosophy CLIs for
 
 chartfold consolidates my health records from multiple hospital systems into one place. I do a lot of analysis on my own data — trying to spot patterns, understand trends, inform conversations with my doctors. They're the experts; this just helps me be a better-informed patient.
 
+## Encryption & Privacy
+
+My thesis was about searching encrypted data without leaking queries. That research turned practical — I keep building tools for the same problem: keeping things private on infrastructure you don't control.
+
+- [cryptoid](https://github.com/queelius/cryptoid) — Encrypted content and user management for Hugo/static sites
+- [pagevault](https://github.com/queelius/pagevault) — Password-protect HTML, Markdown, PDFs, or any content on static hosting. User management, re-keying, renders to a single-file app.
+- [algebraic_cipher_types](https://github.com/queelius/algebraic_cipher_types) — Algebraic cipher types
+- [cipher_maps](https://github.com/queelius/cipher_maps) — Oblivious function approximation through algebraic structures
+
 ## Libraries
 
 **C++**: [disjoint_interval_set](https://github.com/queelius/disjoint_interval_set), [algebraic_hashing](https://github.com/queelius/algebraic_hashing), [sparse_spatial_hash](https://github.com/queelius/sparse_spatial_hash), [elementa](https://github.com/queelius/elementa), [limes](https://github.com/queelius/limes)
