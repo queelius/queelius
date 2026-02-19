@@ -10,6 +10,7 @@ Reliability theory, encrypted search, algebraic structures, complex networks.
 
 - [masked-causes-in-series-systems](https://github.com/queelius/masked-causes-in-series-systems) — likelihood framework for masked failure data
 - [encrypted_search_thesis](https://github.com/queelius/encrypted_search_thesis) — IR on encrypted collections
+- [bernoulli_sets](https://github.com/queelius/bernoulli_sets) — algebraic theory of random approximate sets, closure properties, applications to encrypted Boolean search
 - [cognitive-mri-conversations](https://github.com/queelius/cognitive-mri-conversations) — network analysis of AI conversations (Complex Networks 2025)
 - [algebraic.dist](https://github.com/queelius/algebraic.dist) — algebra over distributions in R
 - [likelihood.model](https://github.com/queelius/likelihood.model) — composable likelihood framework
@@ -33,9 +34,11 @@ I want what I make and collect to outlast me. These are Unix-philosophy CLIs for
 | [crier](https://github.com/queelius/crier) | Cross-posting |
 | [jsonl-algebra](https://github.com/queelius/jsonl-algebra) | Relational algebra over JSONL |
 | [posthumous](https://github.com/queelius/posthumous) | Deadman switch |
-| eidola | Persona from data |
+| eidola | Conversable persona from all of the above |
 
 chartfold consolidates my health records from multiple hospital systems into one place. I do a lot of analysis on my own data — trying to spot patterns, understand trends, inform conversations with my doctors. They're the experts; this just helps me be a better-informed patient.
+
+eidola uses arkiv/ECHO to auto-package all my data — conversations, writings, emails, bookmarks, photos, reading notes — into a queryable whole (including MCP/SQL). The goal is a simulacrum: something that can represent my thinking after I can't. The [cognitive MRI paper](https://github.com/queelius/cognitive-mri-conversations) is the academic version of the same impulse — mapping the topology of a mind's conversations.
 
 ## Encryption & Privacy
 
@@ -43,8 +46,17 @@ My thesis was about searching encrypted data without leaking queries. That resea
 
 - [cryptoid](https://github.com/queelius/cryptoid) — Encrypted content and user management for Hugo/static sites
 - [pagevault](https://github.com/queelius/pagevault) — Password-protect HTML, Markdown, PDFs, or any content on static hosting. User management, re-keying, renders to a single-file app.
-- [algebraic_cipher_types](https://github.com/queelius/algebraic_cipher_types) — Algebraic cipher types
-- [cipher_maps](https://github.com/queelius/cipher_maps) — Oblivious function approximation through algebraic structures
+- [bernoulli_sets](https://github.com/queelius/bernoulli_sets) — Theory of random approximate sets underlying encrypted Boolean search
+- [encrypted_search_confidentiality](https://github.com/queelius/encrypted_search_confidentiality) — Measuring and maximizing confidentiality in encrypted search
+- [boolean-algebra-over-trapdoor-sets](https://github.com/queelius/boolean-algebra-over-trapdoor-sets) — Boolean algebra on trapdoor sets for oblivious computing
+
+## AI Tools
+
+I build a lot of tooling for working with AI — Claude Code plugins, MCP servers, agent workflows.
+
+- [alex-claude-plugins](https://github.com/queelius/alex-claude-plugins) — Plugin suite: papermill (academic writing), pub-pipeline (publication), worldsmith (fiction), repoindex, mf (site management), deets, locksmith
+- eidola — Persona generation from personal data archives
+- [cognitive-mri-conversations](https://github.com/queelius/cognitive-mri-conversations) — Network topology of AI conversations
 
 ## Libraries
 
